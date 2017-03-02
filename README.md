@@ -1,6 +1,6 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This script contains a function `get_roots` to solve quadratic equations. 
 
 # Project Goals
 
